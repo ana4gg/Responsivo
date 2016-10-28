@@ -1,0 +1,19 @@
+styles.css
+
+body {text-align: center;
+}
+ 
+
+@media {body 
+	{background: #2ecc71}}
+
+@media (max-width: 1200px) {
+	body{background: red}}
+
+@media (max-width: 700px) {
+	body{background: yellow}
+	
+}
+
+
+.header {text-align: center;}
